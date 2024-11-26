@@ -1,0 +1,6 @@
+pandas
+networkx
+matplotlib
+streamlit
+openpyxl
+streamlit_agraph
